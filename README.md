@@ -1,4 +1,3 @@
-# Bernard Kelly
 [bernardk@tutanota.com](mailto:bernardk@tutanota.com)
 ###### PGP KEY: 
 
