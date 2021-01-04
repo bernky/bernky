@@ -14,4 +14,6 @@ You will not find me on any social media networks unless for employment purposes
 * Web development
 * Security through encryption technologies
 * Cryptography mathematics 
+* Art driven data
+
 
