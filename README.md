@@ -1,16 +1,17 @@
-### Hi there 👋
+# Bernard Kelly
+[bernardk@tutanota.com](mailto:bernardk@tutanota.com)
+###### PGP KEY: 
 
-<!--
-**bernky/bernky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+You will not find me on any social media networks unless for employment purposes. If you have any questions about repositories or need help with a particular matter, do not hesitate to send an issue or directly email.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+* Linux kernel stack
+* Low level development
+* Reverse engineering
+* Database management systems
+* Web development
+* Security through encryption technologies
+* Cryptography mathematics 
+
