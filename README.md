@@ -1,4 +1,5 @@
-[BLOG](bernky.github.io)
+# [BLOG](bernky.github.io)
+
 [bernardk@tutanota.com](mailto:bernardk@tutanota.com) | [PGP: Expires 01/04/2023](https://raw.githubusercontent.com/bernky/bernky/main/bernardk.asc)
 
 
